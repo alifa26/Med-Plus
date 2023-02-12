@@ -1,16 +1,15 @@
-# med
+# MED PLUS
 
-A new Flutter project.
+my graduation project .
+medical services app .
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## App Services :
+ - request ambulance car by sharing user location
+ - request blood donation by sharing user location and blood type 
+ - make doctor appointment for users and view appointments made for doctors 
+ - recieve lab test results as PDF file 
+ - request a PCR test appointment 
+ - medicine delivery by sending prescription to a pharmacy with user location
+ - users can communicate by chat inside the app and share medical posts and informations 
+ - users get to view latest medical news within the app
