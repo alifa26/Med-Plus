@@ -3,6 +3,7 @@
 my graduation project .
 medical services app .
 
+built with fluter and firebase using bloc for state management .
 
 ## App Services :
  - request ambulance car by sharing user location
